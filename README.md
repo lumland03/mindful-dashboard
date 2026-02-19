@@ -18,4 +18,5 @@
 
 ## Citations
 * [Font Share](https://www.fontshare.com/)
+* [Web Dev Collection of Pens](https://codepen.io/collection/XgXoJj)
 * CodePen, GitHub, AI, etc. for code snippets, ideas, etc.
