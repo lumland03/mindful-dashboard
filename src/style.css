@@ -7,3 +7,7 @@
 * {
   outline : 1px solid lightgray;
 }
+
+@theme {
+  --color-new-hotness: oklch(0.6529 0.1554 152.47);
+}

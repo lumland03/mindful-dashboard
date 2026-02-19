@@ -11,13 +11,13 @@ initClock();
 initDate();
 
 // Age of Person
-const ageOfPerson = calculateAgeOf("2000-01-01");
+const ageOfPerson = calculateAgeOf("2003-12-14");
 const elemAge = document.querySelector('.ageOfPerson');
 elemAge.textContent = ageOfPerson;
 elemAge.setAttribute("datetime", ageOfPerson);
 
-// Days Until Event
-const daysUntil = getDaysUntilEvent("2026-12-25");
+// Days Until Graduation
+const daysUntil = getDaysUntilEvent("2027-06-13");
 const elemEvent = document.querySelector('.daysUntilEvent');
 elemEvent.textContent = daysUntil;
 
