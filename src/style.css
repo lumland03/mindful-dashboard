@@ -4,8 +4,25 @@
 /* Diagnostic Styling 
 - Delete when live to world (production phase)
 */
-* {
-  outline : 1px solid lightgray;
+
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+span, p{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+section{
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0 20px 10px rgba(0, 0, 0, 0.1);
+  
 }
 
 @theme {
