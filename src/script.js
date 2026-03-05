@@ -3,6 +3,7 @@ import { initDate } from './date.js';
 import { calculateAgeOf } from './calculateAgeOf.js';
 import { getDaysUntilEvent } from './daysTillEvent.js';
 import { getDayStreak } from './streakOfDays.js';
+import './gamble.js';
 
 // Clock
 initClock();
